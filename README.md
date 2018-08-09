@@ -30,7 +30,7 @@ Download pretrained resnet model from: [resnet101-pretrained](), and put the mod
 ## 4. Performance 
 TBD
 ## 5. TODO List
-- [ ] Add Scripts 
+- [x] Add Scripts 
 - [ ] Add experiment results
 - [ ] Add support for Deeplab V3+
 - [ ] Add BiSeNet
