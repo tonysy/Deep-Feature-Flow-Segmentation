@@ -1,0 +1,15 @@
+nose 
+numpy==1.14.0 
+nose-timer 
+requests==2.18.4 
+Pillow 
+easydict 
+pyyaml 
+sacred 
+visdom 
+Cython 
+matplotlib 
+scikit-image 
+tqdm 
+mxnet-cu90
+opencv-python==3.4.1.15
