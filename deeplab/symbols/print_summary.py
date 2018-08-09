@@ -1,3 +1,13 @@
+# --------------------------------------------------------
+# Copyright (c) 2016 by Contributors
+# Copyright (c) 2017 Microsoft
+# Copyright (c) 2017 ShanghaiTech PLUS Group
+# Licensed under The Apache-2.0 License [see LICENSE for details]
+# Written by Zheng Zhang
+# Written by Songyang Zhang 
+# E-main: sy.zhangbuaa#gmail.com
+# --------------------------------------------------------
+
 import json
 from mxnet import Symbol
 def print_summary(symbol, shape=None, line_length=120, positions=[.44, .64, .74, 1.]):
