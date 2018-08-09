@@ -10,7 +10,8 @@ Based on Deeplab V2
     - Install needed python packages with `pip install -r requirements.txt`
         - If you are in China Mainland, you can use these to speedup
         `pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple`
-
+- Then `sh init.sh` to build the lib for faster-rcnn
+    Because we use the code from Deformable ConvNets and the dataloader has some dependencies on faster-rcnn, so you need to build the lib first.
 ## 2. Prepare Data and Pretrained Model
 ### Cityscapes Data
 You need to download the cityscapes data from the official webpapge and unzip the data
