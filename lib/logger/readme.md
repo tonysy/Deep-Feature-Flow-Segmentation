@@ -1,0 +1,1 @@
+This folder was copied from https://github.com/pytorch/tnt/blob/master/torchnet/logger

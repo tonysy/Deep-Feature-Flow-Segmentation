@@ -1,8 +1,14 @@
 # Byte-compiled / optimized / DLL files
+.vscode/ 
+model/
+.mxnet_0.12/
+output/
+data/
+
 __pycache__/
 *.py[cod]
 *$py.class
-
+Deformable-origin/
 # C extensions
 *.so
 
@@ -15,7 +21,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
