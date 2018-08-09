@@ -1,4 +1,5 @@
-# Deep Feature Flow for Video Semantic Segmentation based on Deeplab V2
+# Deep Feature Flow for Video Semantic Segmentation
+Based on Deeplab V2
 
 ## 1. Setup environment
 - If you use our dockerfile, you can run the code easily.
