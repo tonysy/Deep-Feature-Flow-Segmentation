@@ -1,7 +1,7 @@
 nose 
 numpy==1.14.0 
 nose-timer 
-requests==2.18.4 
+requests>=2.20.0
 Pillow 
 easydict 
 pyyaml 
