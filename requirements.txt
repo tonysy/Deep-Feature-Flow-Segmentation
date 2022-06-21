@@ -1,5 +1,5 @@
 nose 
-numpy==1.14.0 
+numpy==1.22.0 
 nose-timer 
 requests>=2.20.0
 Pillow 
